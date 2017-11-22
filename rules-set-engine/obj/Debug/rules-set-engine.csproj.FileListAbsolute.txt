@@ -1,0 +1,12 @@
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Castle.Core.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.Extensions.Factory.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.xml
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\Ninject.Extensions.Factory.xml
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\RulesSetEngine.Core.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\bin\Debug\RulesSetEngine.Core.pdb
+C:\workspace\code\rules-set-engine\rules-set-engine\obj\Debug\RulesSetEngine.Core.dll
+C:\workspace\code\rules-set-engine\rules-set-engine\obj\Debug\RulesSetEngine.Core.pdb
+C:\workspace\code\rules-set-engine\rules-set-engine\obj\Debug\rules-set-engine.csprojResolveAssemblyReference.cache
